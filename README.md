@@ -1,0 +1,1 @@
+Script implementing the multilingual word embedding method described in (Guo et al. 2016, "A representation learning framework for multi-source transfer parsing.") Word embeddings in a target language are estimated by taking a weighted average of known embeddings in a source language (e.g. English).
